@@ -10,6 +10,7 @@ int main()
 
 	c = a + b;
 
+	cout << c << endl;
 	cout << c / 2 << endl;
 
 	system("pause");
