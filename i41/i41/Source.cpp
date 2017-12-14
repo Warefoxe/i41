@@ -4,8 +4,13 @@ using namespace std;
 
 int main()
 {
-	int a = 1;
-	int b = 2;
+	int a, b, c;
+	cout << "";
+	cin >> a >> b;
+
+	c = a + b;
+
+	cout << c / 2 << endl;
 
 	system("pause");
 	return 0;
